@@ -15,6 +15,16 @@ Alternatively, you can clone this repository and run the following commands:
 ```flask run```
 
 ## Screenshots
-![screenshot of habit tracker](https://i.imgur.com/tvwEo5M.png)
+![screenshot 1 of Movie Watchlist](https://i.imgur.com/wYQVLzG.png)
 
-![GIF of habit tracker](https://media.giphy.com/media/BhEYnr9Ta09nSUUxH4/giphy.gif)
+![screenshot 2 of Movie Watchlist](https://i.imgur.com/flbgP9e.png)
+
+![screenshot 3 of Movie Watchlist](https://i.imgur.com/E8bYKDG.png)
+
+![screenshot 4 of Movie Watchlist](https://i.imgur.com/lP0QQ4o.png)
+
+![screenshot 5 of Movie Watchlist](https://i.imgur.com/LBhrSYK.png)
+
+![screenshot 6 of Movie Watchlist](https://i.imgur.com/vTqQ3Ao.png)
+
+![screenshot 7 of Movie Watchlist](https://i.imgur.com/G5xislA.png)
